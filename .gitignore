@@ -1,6 +1,11 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+.DS_Store
+.classpath
+.gradle/
+.project
+.settings/
+bin/
+build/
+out/
+mods/
+target/
+temp/
